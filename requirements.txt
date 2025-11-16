@@ -1,0 +1,12 @@
+python-binance
+python-telegram-bot
+tensorflow
+pandas
+numpy
+scikit-learn
+python-dotenv
+joblib
+backtrader
+matplotlib
+pyarrow
+requests
